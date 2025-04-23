@@ -62,6 +62,9 @@ function addPositionFilterUI() {
             } else {
                 const position = positionDropdown.value.trim().toLowerCase();
                 const count = filterByPosition(position);
+                if (count < 0) {
+                    return;
+                }
                 displayFilteredPosition(position, count);
                 addRemoveFilterButton();
             }
@@ -106,7 +109,12 @@ function addPositionFilterUI() {
 function activatePositionField() {
     const dropdownToggle = document.querySelector('.participants-header-action .dropdown-toggle'); // Dropdown toggle button
     if (!dropdownToggle) {
-        console.error('Dropdown toggle not found');
+        const positionDropdown = document.getElementById('position-filter-dropdown');
+        const filterButton = document.getElementById('position-filter-button');
+        if (positionDropdown && filterButton) {
+            positionDropdown.disabled = false; // Enable the dropdown
+            filterButton.textContent = 'Filter'; // Update button text
+        }
         return;
     }
 
@@ -143,10 +151,12 @@ function enableFilterIfPositionSelected() {
     if (positionFieldSelected) {
         positionDropdown.disabled = false; // Enable the dropdown
         filterButton.textContent = 'Filter'; // Update button text
+        return true; // Explicitly return true
     } else {
         positionDropdown.disabled = true; // Disable the dropdown
         filterButton.textContent = 'Activate'; // Update button text
         positionDropdown.value = ''; // Reset the dropdown
+        return false; // Explicitly return false
     }
 }
 let recipientsPopupLoaded = false; // Flag to track if the Recipients popup is already loaded
@@ -177,6 +187,11 @@ function observeRecipientsPopup() {
 observeRecipientsPopup();
 
 function filterByPosition(position) {
+    var isEnabled = enableFilterIfPositionSelected();
+    console.log(`Filter enabled: ${isEnabled}`); // Debugging log
+    if (!isEnabled) {
+        return -1;
+    }
     const people = document.querySelectorAll('li.recipients');
 
     let shown = 0;
