@@ -41,7 +41,7 @@ function addPositionFilterUI() {
         positionDropdown.appendChild(defaultOption);
 
         // Add predefined positions
-        const positions = ['QB', 'WR', 'DL', 'RB', 'LB']; // Add more positions as needed
+        const positions = ['QB', 'OL', 'DL', 'WR', 'RB', 'DB', 'LB', 'TE', 'Coach',]; // Add more positions as needed
         positions.forEach((position) => {
             const option = document.createElement('option');
             option.value = position.toLowerCase();
