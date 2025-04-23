@@ -41,7 +41,7 @@ function addPositionFilterUI() {
         positionDropdown.appendChild(defaultOption);
 
         // Add predefined positions
-        const positions = ['QB', 'OL', 'DL', 'WR', 'RB', 'DB', 'LB', 'TE', 'Coach',]; // Add more positions as needed
+        const positions = ['QB', 'OL', 'DL', 'WR', 'RB', 'DB', 'LB', 'TE', 'Coach']; // Add more positions as needed
         positions.forEach((position) => {
             const option = document.createElement('option');
             option.value = position.toLowerCase();
@@ -54,14 +54,17 @@ function addPositionFilterUI() {
         // Create the filter button
         const filterButton = document.createElement('button');
         filterButton.id = 'position-filter-button';
-        filterButton.textContent = 'Filter';
+        filterButton.textContent = 'Activate'; // Default text when dropdown is disabled
         filterButton.style = 'padding: 5px 10px; background-color: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer;';
-        filterButton.disabled = true; // Disable the button by default
         filterButton.addEventListener('click', () => {
-            const position = positionDropdown.value.trim().toLowerCase();
-            const count = filterByPosition(position);
-            displayFilteredPosition(position, count);
-            addRemoveFilterButton();
+            if (positionDropdown.disabled) {
+                activatePositionField(); // Activate the "Position" member details
+            } else {
+                const position = positionDropdown.value.trim().toLowerCase();
+                const count = filterByPosition(position);
+                displayFilteredPosition(position, count);
+                addRemoveFilterButton();
+            }
         });
         filterContainer.appendChild(filterButton);
 
@@ -100,6 +103,38 @@ function addPositionFilterUI() {
     }
 }
 
+function activatePositionField() {
+    const dropdownToggle = document.querySelector('.participants-header-action .dropdown-toggle'); // Dropdown toggle button
+    if (!dropdownToggle) {
+        console.error('Dropdown toggle not found');
+        return;
+    }
+
+    // Open the dropdown menu
+    dropdownToggle.click();
+
+    // Wait for the dropdown menu to load and click the "Position" field
+    setTimeout(() => {
+        const positionOption = Array.from(document.querySelectorAll('.dropdown-menu a')).find(
+            (option) => option.textContent.trim() === 'Position'
+        );
+        if (positionOption) {
+            positionOption.click();
+            console.log('Position field activated');
+
+            // Enable the dropdown and update the button text
+            const positionDropdown = document.getElementById('position-filter-dropdown');
+            const filterButton = document.getElementById('position-filter-button');
+            if (positionDropdown && filterButton) {
+                positionDropdown.disabled = false; // Enable the dropdown
+                filterButton.textContent = 'Filter'; // Update button text
+            }
+        } else {
+            console.error('Position option not found in the dropdown menu');
+        }
+    }, 500); // Adjust the timeout if needed
+}
+
 function enableFilterIfPositionSelected() {
     const positionDropdown = document.getElementById('position-filter-dropdown');
     const filterButton = document.getElementById('position-filter-button');
@@ -107,21 +142,28 @@ function enableFilterIfPositionSelected() {
     const positionFieldSelected = !!document.querySelector('.participants-remove-field'); // Check if the "Position" field is selected
     if (positionFieldSelected) {
         positionDropdown.disabled = false; // Enable the dropdown
-        filterButton.disabled = false; // Enable the filter button
+        filterButton.textContent = 'Filter'; // Update button text
     } else {
         positionDropdown.disabled = true; // Disable the dropdown
-        filterButton.disabled = true; // Disable the filter button
+        filterButton.textContent = 'Activate'; // Update button text
         positionDropdown.value = ''; // Reset the dropdown
     }
 }
+let recipientsPopupLoaded = false; // Flag to track if the Recipients popup is already loaded
+
 function observeRecipientsPopup() {
     const observer = new MutationObserver((mutations) => {
         mutations.forEach((mutation) => {
             if (mutation.type === 'childList') {
                 const memberCountDiv = document.querySelector('.member-count'); // Check for the unique element in the popup
-                if (memberCountDiv) {
+                if (memberCountDiv && !recipientsPopupLoaded) {
+                    console.log('Recipients popup detected. Adding filter UI...');
+                    recipientsPopupLoaded = true; // Set the flag to true
                     addPositionFilterUI();
                     enableFilterIfPositionSelected(); // Check if the filter should be enabled
+                } else if (!memberCountDiv && recipientsPopupLoaded) {
+                    console.log('Recipients popup closed. Resetting state...');
+                    recipientsPopupLoaded = false; // Reset the flag when the popup is closed
                 }
             }
         });

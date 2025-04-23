@@ -48,6 +48,7 @@ The **Spond Position Filter** is a Chrome extension that enhances the Spond plat
 ## Permissions
 
 This extension requires the following permissions:
+
 - **`activeTab`**: To interact with the currently active tab where the Spond website is open.
 - **Host Permission (`*://*.spond.com/*`)**: To inject the content script and add the filtering UI to the Spond page.
 
@@ -62,10 +63,12 @@ The Spond Position Filter extension does not collect, store, or process any pers
 ## Development
 
 ### Prerequisites
+
 - Chrome browser
 - Basic knowledge of JavaScript and Chrome extensions
 
 ### File Structure
+
 - **`manifest.json`**: Defines the extension's metadata and permissions.
 - **`content.js`**: Injects the filtering UI and handles filtering logic.
 - **`popup.html`**: Displays a message indicating the filter is available directly on the Spond page.
@@ -73,6 +76,7 @@ The Spond Position Filter extension does not collect, store, or process any pers
 - **`helper/privacy_extension.html`**: Contains the privacy policy for the extension.
 
 ### How to Modify
+
 1. Update the predefined positions in `content.js` under the `positions` array.
 2. Customize the UI styles in the `addPositionFilterUI` function.
 
@@ -94,4 +98,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For questions or support, please contact:
+
 - **Email**: [info@felpower-software.com](mailto:info@felpower-software.com)
