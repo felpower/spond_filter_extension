@@ -1,0 +1,3133 @@
+[
+    {
+        "id": "C2F5EC8EBD554EA9B5286E90EDA7DF5C",
+        "contactPerson": {
+            "contactMethod": "app",
+            "id": "3EF2424790B906E26D23C4D5B8E6D24A",
+            "email": "floriansikora@gmx.at",
+            "firstName": "Florian",
+            "lastName": "Sikora",
+            "imageUrl": "https://spond.com/images/b41/b414512a4676f671636db662f6ea38a6.jpeg",
+            "phoneNumber": "+4369919262464",
+            "unableToReach": false
+        },
+        "name": "Uni Wien Emperors",
+        "activity": "american_football",
+        "imageUrl": "https://spond.com/images/aa8/aa89e2649af765fa80725de15144b1d8.jpeg",
+        "createdTime": "2021-11-03T13:33:32Z",
+        "members": [
+            {
+                "id": "01DA17FAF3094C02827F3B3607E1F928",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "64AB4CF6B9C73E7DC4CBB9A73F5F653D",
+                    "email": "bene.leitner@gmail.com",
+                    "firstName": "Benedikt",
+                    "lastName": "Leitner",
+                    "imageUrl": "https://spond.com/images/33e/33e59af22e09910ac7b4e4552a563fa4.jpeg",
+                    "phoneNumber": "+4369910660159",
+                    "unableToReach": false
+                },
+                "firstName": "Benedikt",
+                "lastName": "Leitner",
+                "email": "bene.leitner@gmail.com",
+                "phoneNumber": "+4369910660159",
+                "createdTime": "2024-11-05T10:52:01Z",
+                "guardians": [],
+                "subGroups": [
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75"
+                ],
+                "dateOfBirth": "1955-01-01",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "02A5DB30FD1648B4A37314F1F899F801",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "D5D93607234314AE5197DA575B22FF07",
+                    "email": "henrichmika@gmail.com",
+                    "firstName": "Mika",
+                    "lastName": "Henrich",
+                    "unableToReach": false
+                },
+                "firstName": "Mika",
+                "lastName": "Henrich",
+                "email": "henrichmika@gmail.com",
+                "createdTime": "2025-03-25T11:51:58Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2005-05-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "036BF2A6C76A45BBA3CADADD765518EA",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "CE3F838316863D4288C1A6DD348CF6FA",
+                    "email": "anto.karlo.ninic@outlook.de",
+                    "firstName": "Anto Karlo",
+                    "lastName": "Ninic",
+                    "unableToReach": false
+                },
+                "firstName": "Anto Karlo",
+                "lastName": "Ninic",
+                "email": "anto.karlo.ninic@outlook.de",
+                "createdTime": "2024-03-28T06:04:10Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2002-07-03",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Theresienbadgasse",
+                    "Wien",
+                    "1120",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Lehramt Mathe und Ethik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Guard und Tackle",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+43 6606060027",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "anto.karlo.ninic@outlook.de"
+                },
+                "respondent": true
+            },
+            {
+                "id": "0427AE7AA60549488F29A5961DF3BE46",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "5BFCD547EDC00DBB999859AE925B5062",
+                    "email": "maxi.preinfalk@gmx.at",
+                    "firstName": "Maximilian",
+                    "lastName": "Preinfalk",
+                    "phoneNumber": "+436604806858",
+                    "unableToReach": false
+                },
+                "firstName": "Maximilian",
+                "lastName": "Preinfalk",
+                "email": "maxi.preinfalk@gmx.at",
+                "phoneNumber": "+436604806858",
+                "createdTime": "2024-08-27T21:39:32Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1999-08-18",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Semperstrasse 33",
+                    "Wien",
+                    "1180",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Pharmazie",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB/DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+336604806858",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "maxi.preinfalk@gmx.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "050F11BFE74445BA8D3AC4D7679ADE3E",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "1E7A1CE941A2506E376EC73B847C1B69",
+                    "email": "patrick.giesinger.pg@gmail.com",
+                    "firstName": "Patrick",
+                    "lastName": "Giesinger",
+                    "imageUrl": "https://spond.com/images/d8c/d8cb8c6d64c3c4436874d802403de26c.jpeg",
+                    "phoneNumber": "+436641068990",
+                    "unableToReach": false
+                },
+                "firstName": "Patrick",
+                "lastName": "Giesinger",
+                "email": "patrick.giesinger.pg@gmail.com",
+                "phoneNumber": "+436641068990",
+                "createdTime": "2023-10-19T08:55:26Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1997-11-13",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "0B8F3997F5E24B57AE20BB06918B2D53",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "0332963F0EEDAB727A43763F57C2E85D",
+                    "email": "florian.ferdinand.fischer@gmail.com",
+                    "firstName": "Florian",
+                    "lastName": "Fischer",
+                    "phoneNumber": "+436502612603",
+                    "unableToReach": false
+                },
+                "firstName": "Florian",
+                "lastName": "Fischer",
+                "email": "florian.ferdinand.fischer@gmail.com",
+                "phoneNumber": "+436502612603",
+                "createdTime": "2024-08-29T06:12:33Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-04-23",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "TFM",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DE",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+436502612603",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "florian.ferdinand.fischer@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "0C9C67CFBD43435192BBF70BF947646B",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "7FF242C9260ECCABE217D9C3BCFD8A99",
+                    "email": "nahtanoj.u@gmail.com",
+                    "firstName": "Jonathan",
+                    "lastName": "Ulrich",
+                    "unableToReach": false
+                },
+                "firstName": "Jonathan",
+                "lastName": "Ulrich",
+                "email": "nahtanoj.u@gmail.com",
+                "createdTime": "2024-09-02T06:19:53Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2004-07-20",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    null,
+                    "Wien",
+                    "1220",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaften ",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "RB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06769381498"
+                },
+                "respondent": true
+            },
+            {
+                "id": "0F8125A2EF27442A9AEC2E341A45C0D8",
+                "profile": {
+                    "contactMethod": "phone",
+                    "id": "90379797B371BF9B59AF65FB46EDC8B3",
+                    "firstName": "Fabian",
+                    "lastName": "Hagleitner",
+                    "imageUrl": "https://spond.com/images/b35/b3585c1b96042b10393b5ee1d4149298.jpeg",
+                    "phoneNumber": "+436764373765",
+                    "unableToReach": false
+                },
+                "firstName": "Fabian",
+                "lastName": "Hagleitner",
+                "phoneNumber": "+436764373765",
+                "createdTime": "2025-01-16T17:12:11Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75"
+                ],
+                "dateOfBirth": "1992-05-24",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Your dad "
+                },
+                "respondent": true
+            },
+            {
+                "id": "14CCB1156DA94A19B1AB26D398704584",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "36683D3CF708AD532B67F23FB5A8EC2F",
+                    "email": "weinbergervikings@gmail.com",
+                    "firstName": "Karin",
+                    "lastName": "Weinberger",
+                    "imageUrl": "https://spond.com/images/da3/da31190449fe29d8a66231ed012f5cd4.jpeg",
+                    "phoneNumber": "+436767357206",
+                    "unableToReach": false
+                },
+                "firstName": "Karin",
+                "lastName": "Weinberger",
+                "email": "weinbergervikings@gmail.com",
+                "phoneNumber": "+436767357206",
+                "createdTime": "2023-01-26T12:59:06Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2002-03-99",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Line, LB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "00436767357206"
+                },
+                "respondent": true
+            },
+            {
+                "id": "1AF64BC9AB8F4BCFBDC8E2E4B37DF481",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "286DBF91F149BF0FE81846FD17445D83",
+                    "email": "parvizhz24@gmail.com",
+                    "firstName": "Parviz",
+                    "lastName": "Housein Zadeh",
+                    "imageUrl": "https://spond.com/images/401/401180c473f56528c36d0ef57d353d68.jpeg",
+                    "phoneNumber": "+436605604949",
+                    "unableToReach": false
+                },
+                "firstName": "Parviz",
+                "lastName": "Housein Zadeh",
+                "email": "parvizhz24@gmail.com",
+                "phoneNumber": "+436605604949",
+                "createdTime": "2023-09-18T11:36:26Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2000-09-30",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Biologie",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "OL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "1C71483C981943CCBB8B9025852D1669",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "0149CDD73D0B0E22813177EAD148F0F7",
+                    "email": "patrick.sommerauer@hotmail.com",
+                    "firstName": "Patrick",
+                    "lastName": "Sommerauer",
+                    "phoneNumber": "+436801230213",
+                    "unableToReach": false
+                },
+                "firstName": "Patrick",
+                "lastName": "Sommerauer",
+                "email": "patrick.sommerauer@hotmail.com",
+                "phoneNumber": "+436801230213",
+                "createdTime": "2022-01-28T13:14:39Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1995-08-13",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "1E12E95CC816485FBF204C960783E1C0",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "A1E7E87576B87EFE6EBBE86D6DDDF2E3",
+                    "firstName": "Theo",
+                    "lastName": "Mörkl",
+                    "phoneNumber": "+436604700652",
+                    "unableToReach": false
+                },
+                "firstName": "Theo",
+                "lastName": "Mörkl",
+                "phoneNumber": "+436604700652",
+                "createdTime": "2023-10-18T14:03:53Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2003-03-99",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "moerkltheo@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "21C1F12344C74874B45D04F15CCAA0F9",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "48860A289F2513F2203A061E12C16544",
+                    "email": "sepp673@gmail.com",
+                    "firstName": "Peter",
+                    "lastName": "Kölbl",
+                    "phoneNumber": "+436606553308",
+                    "unableToReach": false
+                },
+                "firstName": "Peter",
+                "lastName": "Kölbl",
+                "email": "sepp673@gmail.com",
+                "phoneNumber": "+436606553308",
+                "createdTime": "2022-01-26T17:21:45Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2001-02-06",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Rechtswissenschaften",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+436606553308",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "a.koelbl.1@gmx.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "25971FD2973044919B733BAB1E50F992",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3302DC96538463C6FD6A8EA24F4540E7",
+                    "email": "poturovicmeris@gmail.com",
+                    "firstName": "Meris",
+                    "lastName": "Poturovic",
+                    "phoneNumber": "+436509985682",
+                    "unableToReach": false
+                },
+                "firstName": "Meris",
+                "lastName": "Poturovic",
+                "email": "poturovicmeris@gmail.com",
+                "phoneNumber": "+436509985682",
+                "createdTime": "2023-12-11T12:29:32Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7"
+                ],
+                "dateOfBirth": "2004-06-16",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Informatik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "RB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "0650 9985682",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "poturovicmeris@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "27D4FA790A23407493D38AE81C18A258",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "0A5EFB9F9E312C3DF2A1860B9CACC6D5",
+                    "email": "lientscher.moritz@gmail.com",
+                    "firstName": "Moritz",
+                    "lastName": "Lientscher",
+                    "unableToReach": false
+                },
+                "firstName": "Moritz",
+                "lastName": "Lientscher",
+                "email": "lientscher.moritz@gmail.com",
+                "createdTime": "2024-12-11T10:07:50Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2002-12-29",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "28AC0E0C6E504C67AEBE70278FB49CDE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "9124A7F2EC18A432F09F7B58284D589E",
+                    "email": "jakob.kopelent@gmail.com",
+                    "firstName": "Jakob",
+                    "lastName": "Kopelent",
+                    "unableToReach": false
+                },
+                "firstName": "Jakob",
+                "lastName": "Kopelent",
+                "email": "jakob.kopelent@gmail.com",
+                "createdTime": "2024-12-11T07:55:55Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-10-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "28E3712E8FDF43169C3A3AEBE663DB46",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3EF2424790B906E26D23C4D5B8E6D24A",
+                    "email": "floriansikora@gmx.at",
+                    "firstName": "Florian",
+                    "lastName": "Sikora",
+                    "imageUrl": "https://spond.com/images/b41/b414512a4676f671636db662f6ea38a6.jpeg",
+                    "phoneNumber": "+4369919262464",
+                    "unableToReach": false
+                },
+                "firstName": "Florian",
+                "lastName": "Sikora",
+                "email": "floriansikora@gmx.at",
+                "phoneNumber": "+4369919262464",
+                "createdTime": "2022-01-26T17:21:05Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "1993-08-27",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "OL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "2A5F42EC1E174CBEBAC8EB5E93E6618D",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "1E2C58849F1ECB0EBE0D0574B5B5391A",
+                    "firstName": "Erik",
+                    "lastName": "de Buck",
+                    "imageUrl": "https://spond.com/images/cf6/cf6d790bec32095c6da634c439180308.jpeg",
+                    "phoneNumber": "+436609611019",
+                    "unableToReach": false
+                },
+                "firstName": "Erik",
+                "lastName": "de Buck",
+                "phoneNumber": "+436609611019",
+                "createdTime": "2022-01-26T17:15:23Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1996-11-01",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9"
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Jus",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06609611019",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "erik.invaders.9@gmx.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "2C29A2F91E7048F5A415A80FDD860788",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "B1182901E41C0D1A92EA4577BD55EB0F",
+                    "email": "scorn.home@gmail.com",
+                    "firstName": "Serhii",
+                    "lastName": "Korniichuk",
+                    "unableToReach": false
+                },
+                "firstName": "Serhii",
+                "lastName": "Korniichuk",
+                "email": "scorn.home@gmail.com",
+                "createdTime": "2024-12-12T00:15:54Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-01-23",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "IBWL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "2C9E405EDCE24A56BAD9668EE3939E77",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "43C149B386DF99C543A8A9EF448FDC2D",
+                    "email": "corrado.alessandro123@yahoo.com",
+                    "firstName": "Corrado",
+                    "lastName": "Alessandro",
+                    "unableToReach": false
+                },
+                "firstName": "Corrado",
+                "lastName": "Alessandro",
+                "email": "corrado.alessandro123@yahoo.com",
+                "createdTime": "2024-06-18T04:22:43Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2004-07-05",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Webergasse",
+                    "St.Andrä-Wördern",
+                    "3423",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Rechtswissenschaften ",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06763902688",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "corrado.alessandro123@yahoo.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "2E13819EA5804CAE9314D42E93F0BB59",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "6E47E582CADC37C21589C0AE222717CE",
+                    "email": "leo.schroeer@outlook.com",
+                    "firstName": "Leonardo",
+                    "lastName": "Schroeer",
+                    "unableToReach": false
+                },
+                "firstName": "Leonardo",
+                "lastName": "Schroeer",
+                "email": "leo.schroeer@outlook.com",
+                "createdTime": "2025-04-09T22:29:12Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2003-11-18",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaften",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+4367762367267",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "Leo.schroeer@outlook.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "30D64051AE01444ABCA182E9F3776CC0",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "028B737AEBC6276432EC337647D3292D",
+                    "email": "jakob.obernosterer@outlook.at",
+                    "firstName": "Jakob",
+                    "lastName": "Obernosterer",
+                    "imageUrl": "https://spond.com/images/db4/db45259b3a7a331db0fb058c8cb3ed2e.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Jakob",
+                "lastName": "Obernosterer",
+                "email": "jakob.obernosterer@outlook.at",
+                "createdTime": "2024-09-05T15:40:34Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "imageUrl": "https://spond.com/images/10a/10a77327d3c225db6b08e7bcc5165782.jpeg",
+                "dateOfBirth": "2004-01-22",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Pfeilgasse 3A",
+                    "Wien",
+                    "1080",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Biologie Bachelor",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Linebacker",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06769640617",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "Jakob.obernosterer@outlook.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "33CEB1F1DAC248C1AC10F7239CD6358C",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "7544754B3700FB87A7BDEC14703B6321",
+                    "email": "fabioaprea82@gmail.com",
+                    "firstName": "Fabio",
+                    "lastName": "Aprea",
+                    "imageUrl": "https://spond.com/images/e97/e9778a2ba2dd837a2aecfdd003f2fb40.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Fabio",
+                "lastName": "Aprea",
+                "email": "fabioaprea82@gmail.com",
+                "createdTime": "2024-04-02T10:36:44Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2000-09-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "362712C55E6B47868103CD7319CDD54F",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "209B06A97F3B878AD1ADBFC0EFCFEF41",
+                    "email": "maxbalazs@outlook.com",
+                    "firstName": "Maximilian",
+                    "lastName": "Balázs",
+                    "imageUrl": "https://spond.com/images/2cb/2cb5e389c62b0537dc72ce28fc0b23ec.jpeg",
+                    "phoneNumber": "+436641324908",
+                    "unableToReach": false
+                },
+                "firstName": "Maximilian",
+                "lastName": "Balázs",
+                "email": "maxbalazs@outlook.com",
+                "phoneNumber": "+436641324908",
+                "createdTime": "2024-08-29T06:12:49Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2003-06-99",
+                "address": [
+                    null,
+                    "Vienna",
+                    null,
+                    null
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+43 664 1324 908"
+                },
+                "respondent": true
+            },
+            {
+                "id": "3C7DA55291A94B66A1B5FB98A4607814",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "F659DAF658EF0BA312DA948B4D6EBE16",
+                    "firstName": "Eric",
+                    "lastName": "Rauchenberger",
+                    "imageUrl": "https://spond.com/images/e49/e499d6ab80c28572d68a73580feedcaa.jpeg",
+                    "phoneNumber": "+436803209668",
+                    "unableToReach": false
+                },
+                "firstName": "Eric",
+                "lastName": "Rauchenberger",
+                "phoneNumber": "+436803209668",
+                "createdTime": "2022-01-26T19:43:40Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "F945CCEBA4B745C6B962C8AD22F86413"
+                ],
+                "imageUrl": "https://spond.com/images/f8b/f8b9caded594307fc022f6e759a4831c.jpeg",
+                "dateOfBirth": "2000-07-25",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "QB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06803209668",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "raucheneric@hotmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "3EBF17654DD142AB92D04710800DBBA7",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4722933EFD815C61D0E44F259A659361",
+                    "email": "martin.stockinger@outlook.at",
+                    "firstName": "Martin",
+                    "lastName": "Stockinger",
+                    "imageUrl": "https://spond.com/images/1d6/1d64e027d741ae61c465edb969ea8d47.jpeg",
+                    "phoneNumber": "+4369913168855",
+                    "unableToReach": false
+                },
+                "firstName": "Martin",
+                "lastName": "Stockinger",
+                "email": "martin.stockinger@outlook.at",
+                "phoneNumber": "+4369913168855",
+                "createdTime": "2023-10-18T12:09:33Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2003-06-13",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "438E1190BA3C47F595CAC33AF35961C3",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "5A4AFAFFA3AA29D91F3AD15ACBBBB0C0",
+                    "email": "isaac_cantillo@hotmail.com",
+                    "firstName": "Isaac",
+                    "lastName": "Cantillo",
+                    "phoneNumber": "+436769383229",
+                    "unableToReach": false
+                },
+                "firstName": "Isaac",
+                "lastName": "Cantillo",
+                "email": "isaac_cantillo@hotmail.com",
+                "phoneNumber": "+436769383229",
+                "createdTime": "2023-06-15T08:56:44Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2001-06-99",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR"
+                },
+                "respondent": true
+            },
+            {
+                "id": "4434C236A0C84C35B9C3703606389155",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "7DCDA12CAAACEF32970FBF38422EBF86",
+                    "email": "stefan.gamperl@hotmail.com",
+                    "firstName": "Stefan",
+                    "lastName": "Gamperl",
+                    "imageUrl": "https://spond.com/images/2d9/2d96c9efd982f6d486dda2a91dd482e8.jpeg",
+                    "phoneNumber": "+436766173514",
+                    "unableToReach": false
+                },
+                "firstName": "Stefan",
+                "lastName": "Gamperl",
+                "email": "stefan.gamperl@hotmail.com",
+                "phoneNumber": "+436766173514",
+                "createdTime": "2022-11-24T18:11:37Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1995-06-30",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "443FC5B9BA844E47AEA89FF4B13650AA",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "520C435B4A6002762A6714AA218AEDAE",
+                    "email": "zincs.bend.0v@icloud.com",
+                    "firstName": "Lukas",
+                    "lastName": "Vojtek",
+                    "imageUrl": "https://spond.com/images/280/280b6f2c35cb0b967964d93b8d78ad40.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Lukas",
+                "lastName": "Vojtek",
+                "email": "zincs.bend.0v@icloud.com",
+                "createdTime": "2024-10-03T20:17:45Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "1996-10-99",
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Chemie",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LG"
+                },
+                "respondent": true
+            },
+            {
+                "id": "47673EA20ADD400393E9A47635F68B46",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "0A7935C99EA8F1A6A33E8D6A5DA0CF5E",
+                    "email": "felixbugner@gmail.com",
+                    "firstName": "Felix",
+                    "lastName": "Bugner",
+                    "phoneNumber": "+4367762455993",
+                    "unableToReach": false
+                },
+                "firstName": "Felix",
+                "lastName": "Bugner",
+                "email": "felixbugner@gmail.com",
+                "phoneNumber": "+4367762455993",
+                "createdTime": "2022-10-06T17:28:06Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2003-02-12",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+4367762455993",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "felixbugner@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "4BD3A95B90CD4650B515DA04FF848194",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4EA968AB8C57906A60883DC86493A7AE",
+                    "email": "02.raises.sniff@icloud.com",
+                    "firstName": "Markus",
+                    "lastName": "Pal",
+                    "phoneNumber": "+436764516030",
+                    "unableToReach": false
+                },
+                "firstName": "Markus",
+                "lastName": "Pal",
+                "email": "02.raises.sniff@icloud.com",
+                "phoneNumber": "+436764516030",
+                "createdTime": "2023-01-13T08:59:37Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2023-01-13",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "4EBAFCD2BF5A4F27A0E06881D274C2A5",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "1A3F4121F33F25ADAA96191EE35D4D74",
+                    "email": "kuroschkhosravi52@hotmail.com",
+                    "firstName": "Kurosch",
+                    "lastName": "Khosravi",
+                    "phoneNumber": "+436765835037",
+                    "unableToReach": false
+                },
+                "firstName": "Kurosch",
+                "lastName": "Khosravi",
+                "email": "kuroschkhosravi52@hotmail.com",
+                "phoneNumber": "+436765835037",
+                "createdTime": "2022-03-02T08:37:51Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1989-06-23",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "VWL",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DL",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+436765835037"
+                },
+                "respondent": false
+            },
+            {
+                "id": "50C37F41BE554E89BB356AA729ACEEC2",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "00575B216B11E887B5083946A6E793F3",
+                    "email": "stefan.hoerlesberger@gmx.at",
+                    "firstName": "Stefan",
+                    "lastName": "Hörlesberger",
+                    "phoneNumber": "+436643256360",
+                    "unableToReach": false
+                },
+                "firstName": "Stefan",
+                "lastName": "Hörlesberger",
+                "email": "stefan.hoerlesberger@gmx.at",
+                "phoneNumber": "+436643256360",
+                "createdTime": "2022-01-26T17:21:50Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1995-06-15",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "53F35D9BFEA745499E1DD5F03C26FBCE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "5996ACADC6D5C18F9FE8475F80BCB674",
+                    "email": "benny123005@gmail.com",
+                    "firstName": "Benny",
+                    "lastName": "Zitta",
+                    "imageUrl": "https://spond.com/images/d8c/d8c3afba857f9e488c95eed0f48c90d5.jpeg",
+                    "phoneNumber": "+4369919271932",
+                    "unableToReach": false
+                },
+                "firstName": "Benny",
+                "lastName": "Zitta",
+                "email": "benny123005@gmail.com",
+                "phoneNumber": "+4369919271932",
+                "createdTime": "2022-01-26T21:44:03Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1997-04-05",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+4369919271932"
+                },
+                "respondent": true
+            },
+            {
+                "id": "574454B8089A46C78752CDE21D18CD0A",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "C28AF37DA58813FD0D392C8B2F7CE259",
+                    "firstName": "Daniel",
+                    "lastName": "Kögl",
+                    "phoneNumber": "+4369910745058",
+                    "unableToReach": false
+                },
+                "firstName": "Daniel",
+                "lastName": "Kögl",
+                "phoneNumber": "+4369910745058",
+                "createdTime": "2022-01-27T22:24:08Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1998-08-13",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "59AE721776BF441CA0C4347617FA13D0",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3C61DC61E3A1D8B8CDEE300B2F5DCDB9",
+                    "email": "vali.ba@outlook.de",
+                    "firstName": "Valentin",
+                    "lastName": "Bachinger",
+                    "phoneNumber": "+4368120426678",
+                    "unableToReach": false
+                },
+                "firstName": "Valentin",
+                "lastName": "Bachinger",
+                "email": "vali.ba@outlook.de",
+                "phoneNumber": "+4368120426678",
+                "createdTime": "2022-03-18T05:22:28Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1998-11-06",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Hofzeile 7-9",
+                    "Wien",
+                    "1190",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Rechtswissenschaften",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "068120426678",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "vali.ba@outlook.de"
+                },
+                "respondent": true
+            },
+            {
+                "id": "67D028CCE7A74526819F4C5BDD841F13",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "8629027ACDE93F1CF8AE7BBD40338579",
+                    "email": "illenefets@gmail.com",
+                    "firstName": "Patty",
+                    "lastName": "Stefenelli",
+                    "imageUrl": "https://spond.com/images/a46/a46d352dcb7177f6588b4697964ae32c.jpeg",
+                    "phoneNumber": "+4368110460291",
+                    "unableToReach": false
+                },
+                "firstName": "Patty",
+                "lastName": "Stefenelli",
+                "email": "illenefets@gmail.com",
+                "phoneNumber": "+4368110460291",
+                "createdTime": "2025-03-12T15:00:04Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8"
+                ],
+                "dateOfBirth": "1997-10-02",
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "BSc Sportwissenschaft"
+                },
+                "respondent": true
+            },
+            {
+                "id": "684CEAA2C9144047B12D3985DF24F90D",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "B8670373096149997F0B0E6A46BF4F0C",
+                    "email": "maxi.luger84@gmail.com",
+                    "firstName": "Max",
+                    "lastName": "Luger",
+                    "imageUrl": "https://spond.com/images/336/3367fe546c204c5af4d617f75e01608d.jpeg",
+                    "phoneNumber": "+436705592834",
+                    "unableToReach": false
+                },
+                "firstName": "Max",
+                "lastName": "Luger",
+                "email": "maxi.luger84@gmail.com",
+                "phoneNumber": "+436705592834",
+                "createdTime": "2022-01-26T17:21:22Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "imageUrl": "https://spond.com/images/86c/86c1ebf15c5b4a59046ff205ad4bac8d.jpeg",
+                "dateOfBirth": "1997-11-99",
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Technische Chemie",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "maxi.luger84@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "6C0BB2CDC7024581B1FBBA13C9AADFD6",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "FA60D882DB770C0BB7DD1CB3AB56F91E",
+                    "email": "maximilian.dietz47@web.de",
+                    "firstName": "Maximilian",
+                    "lastName": "Dietz",
+                    "imageUrl": "https://spond.com/images/2ef/2efa0abd1dbd138f6bafe17c934350e8.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Maximilian",
+                "lastName": "Dietz",
+                "email": "maximilian.dietz47@web.de",
+                "createdTime": "2024-12-11T20:07:44Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2004-08-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "71C5CB020CDA46E98AF57EE076AA187D",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "BB71077230D901AA7D70ABABAB3D5160",
+                    "email": "alexander.stoklassa@gmail.com",
+                    "firstName": "Alex",
+                    "lastName": "Stoklassa",
+                    "imageUrl": "https://spond.com/images/1d3/1d3549143a526a0434d228ef2950a9d0.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Alex",
+                "lastName": "Stoklassa",
+                "email": "alexander.stoklassa@gmail.com",
+                "createdTime": "2024-08-27T21:39:21Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1994-04-22",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    null,
+                    "Wien",
+                    "1130",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Lehramt",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DL",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06765665942",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "Alexander.Stoklassa@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "71E62960A0B24B44923AA23BC47391E0",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "248DDE9032175A914CFC7356A5E930FD",
+                    "email": "fozomarci0395@gmail.com",
+                    "firstName": "Marcell",
+                    "lastName": "Főző",
+                    "imageUrl": "https://spond.com/images/c50/c501da374f693e98a0eba61af3986b0e.jpeg",
+                    "phoneNumber": "+36309851656",
+                    "unableToReach": false
+                },
+                "firstName": "Marcell",
+                "lastName": "Főző",
+                "email": "fozomarci0395@gmail.com",
+                "phoneNumber": "+36309851656",
+                "createdTime": "2023-12-11T11:50:42Z",
+                "guardians": [],
+                "subGroups": [
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2003-09-05",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Auf Der Schmelz 12",
+                    "Wien",
+                    "1150",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaft",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+36309851656",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "Fozomarci0395@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "74A0A1528C1346DAAC39B369A5B5E30A",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "10A7D440A4F7DD1C7201D0F3F47E20CC",
+                    "email": "michi@teamkoeck.at",
+                    "firstName": "Michael",
+                    "lastName": "Köck",
+                    "imageUrl": "https://spond.com/images/0df/0df22e7c98bbbd8df18b4d47806417e7.jpeg",
+                    "phoneNumber": "+436641966424",
+                    "unableToReach": false
+                },
+                "firstName": "Michael",
+                "lastName": "Köck",
+                "email": "michi@teamkoeck.at",
+                "phoneNumber": "+436641966424",
+                "createdTime": "2022-01-26T17:21:33Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "1998-12-19",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Carl-Appel Straße 5/203",
+                    "Wien",
+                    "1100",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Lehramt Mathe und Sport",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06641966424",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "michi@teamkoeck.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "750D9C7DD4BF454EBF3D3A69BDC2EDF5",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "1670E7B949344B7A005F45C4E599C449",
+                    "email": "arthurwaescher@hotmail.de",
+                    "firstName": "Arthur",
+                    "lastName": "Wäscher",
+                    "imageUrl": "https://spond.com/images/387/387599c110f74ea9fb0b1b9c45679f05.jpeg",
+                    "phoneNumber": "+4369981559611",
+                    "unableToReach": false
+                },
+                "firstName": "Arthur",
+                "lastName": "Wäscher",
+                "email": "arthurwaescher@hotmail.de",
+                "phoneNumber": "+4369981559611",
+                "createdTime": "2023-12-11T11:42:51Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1998-07-31",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "576208CFF78A457D956B82B7504EDE27"
+                ],
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "7DF1694B70CA4AED9717F946E7EB9D0B",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "42CDD40E17345CA465BC247196785F98",
+                    "email": "mhasanikis3060@gmail.com",
+                    "firstName": "Mehdi",
+                    "lastName": "Hasani",
+                    "imageUrl": "https://spond.com/images/d3a/d3aeed9a3ccc7bbedd9c9d83d74fa0ba.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Mehdi",
+                "lastName": "Hasani",
+                "email": "mhasanikis3060@gmail.com",
+                "createdTime": "2024-12-11T07:57:18Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2001-04-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "7F363A34D45C45FD94D08826F25EDD01",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "6CF46B6653048F3E9635167D16134B28",
+                    "email": "blaz.kovac59@gmail.com",
+                    "firstName": "Medo",
+                    "lastName": "Kovac",
+                    "imageUrl": "https://spond.com/images/56e/56e95665467f83904f150397d2cb809a.jpeg",
+                    "phoneNumber": "+436763980434",
+                    "unableToReach": false
+                },
+                "firstName": "Medo",
+                "lastName": "Kovac",
+                "email": "blaz.kovac59@gmail.com",
+                "phoneNumber": "+436763980434",
+                "createdTime": "2022-01-27T19:35:52Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75"
+                ],
+                "dateOfBirth": "1982-06-04",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Coach"
+                },
+                "respondent": false
+            },
+            {
+                "id": "804982B9269F4327BE5B1A74506EAE1B",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "34D46E4CA57894C998B1F95F11EB57DD",
+                    "email": "philippkim1@icloud.com",
+                    "firstName": "Philipp",
+                    "lastName": "Kim",
+                    "imageUrl": "https://spond.com/images/eda/eda3eb66f128ae621768a49782b6825a.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Philipp",
+                "lastName": "Kim",
+                "email": "philippkim1@icloud.com",
+                "createdTime": "2024-05-01T21:06:19Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2000-09-17",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Göllnergasse 24/ 10",
+                    "Wien",
+                    "1030",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Biologie (B.SC) & Mathematik (B.SC)",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Cornerback",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06642369627",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "philippkim1@icloud.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "84D854DDC3B04D3EA2A748E83296CF8C",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "06B8A0E388C407E47A1BA88588786172",
+                    "email": "bluca6023@gmail.com",
+                    "firstName": "Luca",
+                    "lastName": "Basso",
+                    "imageUrl": "https://spond.com/images/431/431a0252009f143d7c7d7d47ba131701.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Luca",
+                "lastName": "Basso",
+                "email": "bluca6023@gmail.com",
+                "createdTime": "2024-12-11T20:06:03Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2005-08-08",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "8B3501EA3A5143EC822347C7B1ADE1A8",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3204F4163B0E6B322516977EECEA970E",
+                    "email": "robin.mueksch7789@gmail.com",
+                    "firstName": "Robin",
+                    "lastName": "Müksch",
+                    "imageUrl": "https://spond.com/images/4e7/4e76249fe1651aac2afb4ab1dd102b70.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Robin",
+                "lastName": "Müksch",
+                "email": "robin.mueksch7789@gmail.com",
+                "createdTime": "2024-09-02T06:20:12Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2000-07-17",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "8DD6C52A075542B8AF7860C1F782551C",
+                "profile": {
+                    "contactMethod": "email",
+                    "id": "93E7F8E373455E0DAAAA1E5AD1214695",
+                    "email": "maxi.eigl@chello.at",
+                    "firstName": "Maximilian",
+                    "lastName": "Eigl",
+                    "phoneNumber": "+4369919286976",
+                    "unableToReach": false
+                },
+                "firstName": "Maximilian",
+                "lastName": "Eigl",
+                "email": "maxi.eigl@chello.at",
+                "phoneNumber": "+4369919286976",
+                "createdTime": "2022-01-26T17:21:24Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "1992-10-28",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "OL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "8FDEACA596C24A289ADE34B9ACAB45A3",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "59307AC49952E23215DB172A0C04A297",
+                    "email": "grafflorian2004@gmail.com",
+                    "firstName": "Florian",
+                    "lastName": "Graf",
+                    "phoneNumber": "+436507103833",
+                    "unableToReach": false
+                },
+                "firstName": "Florian",
+                "lastName": "Graf",
+                "email": "grafflorian2004@gmail.com",
+                "phoneNumber": "+436507103833",
+                "createdTime": "2023-12-11T13:33:27Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "F945CCEBA4B745C6B962C8AD22F86413"
+                ],
+                "dateOfBirth": "2030-01-31",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Qb"
+                },
+                "respondent": true
+            },
+            {
+                "id": "90EADB6E36EA469481C86A3E498127E7",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "9BB30AE7EC1D16A715BA3159D3F702EE",
+                    "email": "felbauer.patrick@gmail.com",
+                    "firstName": "Patrick",
+                    "lastName": "Felbauer",
+                    "imageUrl": "https://spond.com/images/aca/acabab32b50d5026a450e66bd61d0369.jpeg",
+                    "phoneNumber": "+4367762863074",
+                    "unableToReach": false
+                },
+                "firstName": "Patrick",
+                "lastName": "Felbauer",
+                "email": "felbauer.patrick@gmail.com",
+                "phoneNumber": "+4367762863074",
+                "createdTime": "2022-01-26T17:21:41Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "1995-03-21",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9"
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Informatik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "OL",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "067762863074",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "felbauer.patrick@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "929BB5F2EF9B46CFA9B16B311BA886C6",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "5C74836C77BBD9CE6A5AAA7E04B3E26A",
+                    "email": "lorenzgrani@gmail.com",
+                    "firstName": "Lorenz",
+                    "lastName": "Grani",
+                    "imageUrl": "https://spond.com/images/ee7/ee785953f033b2b8e1bde4402fbe5c95.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Lorenz",
+                "lastName": "Grani",
+                "email": "lorenzgrani@gmail.com",
+                "createdTime": "2024-09-16T19:54:04Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75"
+                ],
+                "dateOfBirth": "1997-10-01",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {},
+                "respondent": false
+            },
+            {
+                "id": "9336E71119F44898B9DF43067C0B9716",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "205C2F22E019C10D20275C924AFAAFDF",
+                    "firstName": "TJ",
+                    "lastName": "Unterweger",
+                    "imageUrl": "https://spond.com/images/677/677a94f19aff0a21b61d72ea89e384b4.jpeg",
+                    "phoneNumber": "+4368184012065",
+                    "unableToReach": false
+                },
+                "firstName": "TJ",
+                "lastName": "Unterweger",
+                "phoneNumber": "+4368184012065",
+                "createdTime": "2023-10-18T06:18:28Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "F945CCEBA4B745C6B962C8AD22F86413"
+                ],
+                "dateOfBirth": "2003-07-99",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "QB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+43 681 84012065"
+                },
+                "respondent": true
+            },
+            {
+                "id": "9399EFFEE90E4130B4602F560DFCDCF1",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "656B1C9305568E925BA7FAA17D97FC1C",
+                    "email": "freya.reichl@outlook.com",
+                    "firstName": "Freya",
+                    "lastName": "Reichl",
+                    "unableToReach": false
+                },
+                "firstName": "Freya",
+                "lastName": "Reichl",
+                "email": "freya.reichl@outlook.com",
+                "createdTime": "2024-12-11T20:06:20Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2005-10-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "9521F39EF4B1488BA337EF68D3F51F42",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "61797F5C9075E4C131F70D3D98D6B274",
+                    "email": "ampeva22@gmail.com",
+                    "firstName": "Peter",
+                    "lastName": "Amhof",
+                    "imageUrl": "https://spond.com/images/329/329741c6a593c192c93586ffcf6f57c8.jpeg",
+                    "phoneNumber": "+436702064047",
+                    "unableToReach": false
+                },
+                "firstName": "Peter",
+                "lastName": "Amhof",
+                "email": "ampeva22@gmail.com",
+                "phoneNumber": "+436702064047",
+                "createdTime": "2022-01-27T22:12:39Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1998-12-22",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "95E2CB8F69EA49DC98E606178ABF7B62",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "6C028467ADF4DC532F3E3954A3EE2A0E",
+                    "email": "noah.michen3@gmail.com",
+                    "firstName": "Noah",
+                    "lastName": "Michen",
+                    "imageUrl": "https://spond.com/images/68b/68bc1f482a25ebc18b6c4244e51fb4e8.jpeg",
+                    "phoneNumber": "+436605026688",
+                    "unableToReach": false
+                },
+                "firstName": "Noah",
+                "lastName": "Michen",
+                "email": "noah.michen3@gmail.com",
+                "phoneNumber": "+436605026688",
+                "createdTime": "2023-12-11T12:29:21Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "1999-07-24",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "960EE93DD6814D11B40162A738A610AB",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3662BC5920BA446F1799609A3B61C126",
+                    "email": "moriz@schaffers.at",
+                    "firstName": "Moriz",
+                    "lastName": "Schaffer",
+                    "phoneNumber": "+436765249250",
+                    "unableToReach": false
+                },
+                "firstName": "Moriz",
+                "lastName": "Schaffer",
+                "email": "moriz@schaffers.at",
+                "phoneNumber": "+436765249250",
+                "createdTime": "2023-12-11T16:49:53Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2002-11-15",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Wirtschaftsinformatik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR"
+                },
+                "respondent": true
+            },
+            {
+                "id": "969A2691FE1F41AD84938CB5B994AAC7",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "89712846F424E3B39F4C36CFC72FBAEC",
+                    "email": "jkw@gmx.at",
+                    "firstName": "Julian",
+                    "lastName": "Weber",
+                    "unableToReach": false
+                },
+                "firstName": "Julian",
+                "lastName": "Weber",
+                "email": "jkw@gmx.at",
+                "createdTime": "2024-06-03T13:22:58Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1997-08-09",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Degengasse",
+                    "Wien",
+                    "1160",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Psychologie",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DT",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06604124548",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "jkw@gmx.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "98CF0084EF064519B828492AF869BADE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4DB8BFD7BA79553C7927BCA2EE3BC505",
+                    "firstName": "Gregor",
+                    "lastName": "Vogl",
+                    "phoneNumber": "+436641605700",
+                    "unableToReach": false
+                },
+                "firstName": "Gregor",
+                "lastName": "Vogl",
+                "phoneNumber": "+436641605700",
+                "createdTime": "2024-11-01T00:19:56Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-05-06",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "9B4F1AC5AC26487CA3007663168DFAB2",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "286B6D587464B41DE1F4EFC7A8187BE8",
+                    "email": "niklas.koeck@teamkoeck.at",
+                    "firstName": "Niklas",
+                    "lastName": "Köck",
+                    "unableToReach": false
+                },
+                "firstName": "Niklas",
+                "lastName": "Köck",
+                "email": "niklas.koeck@teamkoeck.at",
+                "createdTime": "2025-02-17T14:55:56Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2005-05-09",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Grundgasse 5",
+                    "Enzesfeld",
+                    "2551",
+                    null
+                ],
+                "fields": {
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06607333633",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "niklas.koeck@teamkoeck.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "9CA30EB79A2746958052F4DF8F2D2EFE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "F8570B47BC49704FD5DF8ABA268B16DB",
+                    "firstName": "Johann",
+                    "lastName": "Pham",
+                    "imageUrl": "https://spond.com/images/fbd/fbd653135cd558b0611e1d33c664bf63.jpeg",
+                    "phoneNumber": "+436606771422",
+                    "unableToReach": false
+                },
+                "firstName": "Johann",
+                "lastName": "Pham",
+                "phoneNumber": "+436606771422",
+                "createdTime": "2022-03-23T11:36:43Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1999-07-01",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "2D83E8F93EEA4C649C9FD210AAB285B2",
+                    "576208CFF78A457D956B82B7504EDE27"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB"
+                },
+                "respondent": false
+            },
+            {
+                "id": "9E88B105A0754EB4981CB07A4806C280",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "6330A10B55FD4BB6005C565FF808F6BF",
+                    "email": "simon.raudaschl@gmail.com",
+                    "firstName": "Simon",
+                    "lastName": "Raudaschl",
+                    "imageUrl": "https://spond.com/images/ecc/ecc621d3cda2c4db1b0cd3efaf89b80e.jpeg",
+                    "phoneNumber": "+436503334183",
+                    "unableToReach": false
+                },
+                "firstName": "Simon",
+                "lastName": "Raudaschl",
+                "email": "simon.raudaschl@gmail.com",
+                "phoneNumber": "+436503334183",
+                "createdTime": "2023-12-11T11:52:28Z",
+                "guardians": [],
+                "subGroups": [
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2000-10-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "A5042F0CC0C34117ADF988F5B3EEBB6E",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "AC520035575DA452101F7C98E14287EF",
+                    "email": "ferdinandlangmann@outlook.com",
+                    "firstName": "Ferdinand",
+                    "lastName": "Langmann",
+                    "imageUrl": "https://spond.com/images/d70/d7039cd78b54f7aa4c69b377d40ddf30.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Ferdinand",
+                "lastName": "Langmann",
+                "email": "ferdinandlangmann@outlook.com",
+                "createdTime": "2024-08-29T06:12:22Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2002-11-27",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06606642513"
+                },
+                "respondent": true
+            },
+            {
+                "id": "ABDAFA4DE7F04AD9BA182F39B37167DA",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "11C7426477C4BB17A5759A10EA36C00F",
+                    "email": "felix13.wagner@gmail.com",
+                    "firstName": "Felix",
+                    "lastName": "Wagner",
+                    "unableToReach": false
+                },
+                "firstName": "Felix",
+                "lastName": "Wagner",
+                "email": "felix13.wagner@gmail.com",
+                "createdTime": "2024-12-11T07:55:45Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2005-05-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "B183E740B3194D19A1B4AD540B3CBE00",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "9E6E9166F0531B27E79E47C7329B033C",
+                    "email": "steini04games@gmail.com",
+                    "firstName": "Lukas",
+                    "lastName": "Steiner",
+                    "imageUrl": "https://spond.com/images/f5c/f5c7c0461404fd04e4c124293c65a262.jpeg",
+                    "phoneNumber": "+4367762002734",
+                    "unableToReach": false
+                },
+                "firstName": "Lukas",
+                "lastName": "Steiner",
+                "email": "steini04games@gmail.com",
+                "phoneNumber": "+4367762002734",
+                "createdTime": "2023-10-02T18:03:18Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2004-02-26",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "576208CFF78A457D956B82B7504EDE27"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "lukassteiner022004@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "B6754CC3F41A41479335EED40DA9B6EB",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4DCB8CB7237682F14C329795CB49E903",
+                    "email": "philip.thaler04@gmail.com",
+                    "firstName": "Philip",
+                    "lastName": "Thaler",
+                    "unableToReach": false
+                },
+                "firstName": "Philip",
+                "lastName": "Thaler",
+                "email": "philip.thaler04@gmail.com",
+                "createdTime": "2024-12-11T07:57:28Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-10-01",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Neusserplatz 1/2/1",
+                    "Wien",
+                    "1150",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Urgeschichte und historische Archäologie ",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+436764084332"
+                },
+                "respondent": true
+            },
+            {
+                "id": "B85DE1EBB0114FD4814B62B97D17DE87",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "132515203A701B09EF58F721DF82418E",
+                    "firstName": "Andy",
+                    "lastName": "Rugero",
+                    "imageUrl": "https://spond.com/images/68d/68d58b5874ce798eaacafd921f5e09d3.jpeg",
+                    "phoneNumber": "+436769781869",
+                    "unableToReach": false
+                },
+                "firstName": "Andy",
+                "lastName": "Rugero",
+                "phoneNumber": "+436769781869",
+                "createdTime": "2023-08-22T21:02:06Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7"
+                ],
+                "dateOfBirth": "1999-05-14",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "laudongasse 36",
+                    "wien",
+                    "1080",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Physik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "408",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06769781869",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "andrun1@yahoo.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "BB707E04A8F441E99CB402FAA9999ABE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "627086E283BE610561B976960B8F0F8A",
+                    "email": "niki-galle@gmx.at",
+                    "firstName": "Nikolaus",
+                    "lastName": "Galle",
+                    "imageUrl": "https://spond.com/images/ad2/ad29052dd6ae638e38c098ae07591178.jpeg",
+                    "phoneNumber": "+436606715545",
+                    "unableToReach": false
+                },
+                "firstName": "Nikolaus",
+                "lastName": "Galle",
+                "email": "niki-galle@gmx.at",
+                "phoneNumber": "+436606715545",
+                "createdTime": "2022-01-27T09:54:43Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "1999-11-28",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Rechtswissenschaften",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR"
+                },
+                "respondent": true
+            },
+            {
+                "id": "BB82445C3EBC4C0280D27FA4AF690BDA",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "324ECBA875CFC692F8939A727A137582",
+                    "email": "yakupch2016@gmail.com",
+                    "firstName": "Yaroslav",
+                    "lastName": "Kupchyshyn",
+                    "imageUrl": "https://spond.com/images/157/157a3882728c2eaeedcb80c70f7d86ab.jpeg",
+                    "phoneNumber": "+4367761794480",
+                    "unableToReach": false
+                },
+                "firstName": "Yaroslav",
+                "lastName": "Kupchyshyn",
+                "email": "yakupch2016@gmail.com",
+                "phoneNumber": "+4367761794480",
+                "createdTime": "2023-12-11T11:50:35Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "2005-12-22",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Am Grünen Prater 11",
+                    "Wien",
+                    "1020",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Business Informatik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "O-Linie",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+43 677 61794480",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "yakupch2016@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "BC828921E2B6449E9A392C46FCE4002C",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "7EB84042EEB9CBC3DD37D47B93B97E80",
+                    "email": "patriktyc11@gmail.com",
+                    "firstName": "Patrik",
+                    "lastName": "Tyc",
+                    "phoneNumber": "+4917638394594",
+                    "unableToReach": false
+                },
+                "firstName": "Patrik",
+                "lastName": "Tyc",
+                "email": "patriktyc11@gmail.com",
+                "phoneNumber": "+4917638394594",
+                "createdTime": "2023-12-12T13:21:39Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2001-09-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "BD78BA9CC2D347DA996B799CCF0CBD53",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "D31BE12A65DC8439F7C97FE5ADC9F683",
+                    "email": "sebasgrunberg@gmail.com",
+                    "firstName": "sebastian",
+                    "lastName": "grünberg",
+                    "imageUrl": "https://spond.com/images/b18/b18363c3ce7ea8317774e9251b399dbd.jpeg",
+                    "phoneNumber": "+436803346010",
+                    "unableToReach": false
+                },
+                "firstName": "Sebastian",
+                "lastName": "Grünberg",
+                "email": "sebasgrunberg@gmail.com",
+                "phoneNumber": "+436803346010",
+                "createdTime": "2024-10-29T11:34:21Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "1999-02-99",
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaften"
+                },
+                "respondent": true
+            },
+            {
+                "id": "BE4061B16CBD4EC58CD9921DD79D7543",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3BB6646440BF1E7BA1182EB40AD7DC23",
+                    "email": "larskremer@gmx.net",
+                    "firstName": "Lars",
+                    "lastName": "Kremer",
+                    "imageUrl": "https://spond.com/images/a62/a62b5056a76840d0bf969a14a026afd1.jpeg",
+                    "phoneNumber": "+4917661839750",
+                    "unableToReach": false
+                },
+                "firstName": "Lars",
+                "lastName": "Kremer",
+                "email": "larskremer@gmx.net",
+                "phoneNumber": "+4917661839750",
+                "createdTime": "2023-12-11T12:29:39Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1999-05-31",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "BF87C252F5BC444C88FB99F38F8C2B33",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "B3C172E6989360028A32E1DEEAD983EE",
+                    "email": "niklaskaiwetzel@googlemail.com",
+                    "firstName": "Niklas",
+                    "lastName": "Wetzel",
+                    "unableToReach": false
+                },
+                "firstName": "Niklas",
+                "lastName": "Wetzel",
+                "email": "niklaskaiwetzel@googlemail.com",
+                "createdTime": "2024-12-12T18:45:34Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "1999-07-29",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "OL"
+                },
+                "respondent": true
+            },
+            {
+                "id": "BF8F3B92262245AAAD508CEFCE94DD77",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "55F459569C4DC8B65E62B637C0E6D80D",
+                    "email": "soeren.gerrelts@yahoo.de",
+                    "firstName": "Sören",
+                    "lastName": "Gerrelts",
+                    "imageUrl": "https://spond.com/images/e8e/e8e75b20364e20c5b6ddac31bb6431fd.jpeg",
+                    "phoneNumber": "+4368110553462",
+                    "unableToReach": false
+                },
+                "firstName": "Sören",
+                "lastName": "Gerrelts",
+                "email": "soeren.gerrelts@yahoo.de",
+                "phoneNumber": "+4368110553462",
+                "createdTime": "2023-01-16T13:09:17Z",
+                "guardians": [],
+                "subGroups": [
+                    "12508DE9DBE7490AB739FC7DF8B42FEE",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA"
+                ],
+                "dateOfBirth": "1998-09-15",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Fuhrmannsgasse 18a/3",
+                    "Wien",
+                    "1080",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Lehramt",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "O-Line",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "068110553462",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "soeren.gerrelts@yahoo.de"
+                },
+                "respondent": true
+            },
+            {
+                "id": "C058CC08D06E4408B18A6FEA8B41112D",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "67CB695C445E3C7E055547D311488E68",
+                    "email": "momo.cmyral@gmail.com",
+                    "firstName": "Moritz",
+                    "lastName": "Cmyral",
+                    "imageUrl": "https://spond.com/images/d5a/d5a85c1340d97920f53aeb28666950d2.jpeg",
+                    "phoneNumber": "+436763986877",
+                    "unableToReach": false
+                },
+                "firstName": "Moritz",
+                "lastName": "Cmyral",
+                "email": "momo.cmyral@gmail.com",
+                "phoneNumber": "+436763986877",
+                "createdTime": "2022-01-26T17:21:37Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1997-06-07",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "EnzersdorfStraße 48/18",
+                    "Mödling",
+                    "2340",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaften",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB/DL",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06763986877",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "momo.cmyral@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "C26266E67C2E44D5A92047516454AD64",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "D5626124024DD4B464E10E32B451C87D",
+                    "email": "daniel.stefani@t-online.de",
+                    "firstName": "Daniel",
+                    "lastName": "Stefani",
+                    "phoneNumber": "+491706462102",
+                    "unableToReach": false
+                },
+                "firstName": "Daniel",
+                "lastName": "Stefani",
+                "email": "daniel.stefani@t-online.de",
+                "phoneNumber": "+491706462102",
+                "createdTime": "2024-12-11T20:06:11Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2001-09-21",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Zahnradbahnstraße 43",
+                    "Wien",
+                    "1190",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Informatik",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+491706462102",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "Daniel.stefani@t-online.de"
+                },
+                "respondent": true
+            },
+            {
+                "id": "CD1E9395A8C841BBAE09F0D2A4F82B3C",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "3BA829CC0890FB6FF5190824D55C8EBB",
+                    "email": "marcoba26@icloud.com",
+                    "firstName": "Marco",
+                    "lastName": "Bayer",
+                    "unableToReach": false
+                },
+                "firstName": "Marco",
+                "lastName": "Bayer",
+                "email": "marcoba26@icloud.com",
+                "createdTime": "2024-12-11T07:58:22Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2003-09-10",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Sportwissenschaft",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "TE",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06606346468"
+                },
+                "respondent": true
+            },
+            {
+                "id": "D4E3842423874D1C80655B27A3B22605",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "BD62FE66C64E499C0A56B1EB6554DA62",
+                    "email": "maxvdw61@gmail.com",
+                    "firstName": "Maximilian",
+                    "lastName": "van der Werf",
+                    "phoneNumber": "+436764949086",
+                    "unableToReach": false
+                },
+                "firstName": "Maximilian",
+                "lastName": "van der Werf",
+                "email": "maxvdw61@gmail.com",
+                "phoneNumber": "+436764949086",
+                "createdTime": "2023-10-02T16:10:25Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2000-08-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "D82EADB06A844C4FAE30ED8B77F5F185",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "D44A2336F1372CB84DD66CB6749FB966",
+                    "email": "gregor.piuk@gmx.at",
+                    "firstName": "Gregor",
+                    "lastName": "Piuk",
+                    "unableToReach": false
+                },
+                "firstName": "Gregor",
+                "lastName": "Piuk",
+                "email": "gregor.piuk@gmx.at",
+                "createdTime": "2024-03-06T11:26:51Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1999-11-18",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Rechtswissenschaften",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DL",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "067761445052",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "gregor.piuk@gmx.at"
+                },
+                "respondent": true
+            },
+            {
+                "id": "D8312BFD951C4D0D89F7384B41B4FAB8",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4EE8E83C64F059F8FDC69CDEBC64FD2F",
+                    "email": "tobias.prehsler00@gmail.com",
+                    "firstName": "Tobias",
+                    "lastName": "Prehsler",
+                    "unableToReach": false
+                },
+                "firstName": "Tobias",
+                "lastName": "Prehsler",
+                "email": "tobias.prehsler00@gmail.com",
+                "createdTime": "2024-09-16T13:30:24Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-09-07",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "D8DB991823FF455E90B743768C41EAA2",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "98276151988181C1320EBC33989C3753",
+                    "email": "ferdinand.tscharnutter@gmail.com",
+                    "firstName": "Ferdinand",
+                    "lastName": "Tscharnutter",
+                    "phoneNumber": "+4369910844746",
+                    "unableToReach": false
+                },
+                "firstName": "Ferdinand",
+                "lastName": "Tscharnutter",
+                "email": "ferdinand.tscharnutter@gmail.com",
+                "phoneNumber": "+4369910844746",
+                "createdTime": "2023-03-10T09:19:19Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "imageUrl": "https://spond.com/images/b46/b46e7340e98af50a49b71acbc5bf95c2.jpeg",
+                "dateOfBirth": "2003-06-99",
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Pharmazie",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+43 69910844746",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "ferdinand.tscharnutter@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "D9BA57BB56974D879A6877ECD4F510F3",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "0C833A66E01BCAF995BDEF405EA99F16",
+                    "email": "b.hamnca@outlook.com",
+                    "firstName": "Biko",
+                    "lastName": "Hamnca",
+                    "imageUrl": "https://spond.com/images/51b/51bb51a0258119d7d9f7ae80a7041e15.jpeg",
+                    "phoneNumber": "+4368120321278",
+                    "unableToReach": false
+                },
+                "firstName": "Biko",
+                "lastName": "Hamnca",
+                "email": "b.hamnca@outlook.com",
+                "phoneNumber": "+4368120321278",
+                "createdTime": "2022-01-27T09:55:55Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1996-03-28",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "DB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "068120321278"
+                },
+                "respondent": true
+            },
+            {
+                "id": "DA2426795CC94908BDCFD6F4D5002D7F",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "7A86095416E565AB42C03ACC24EB3D50",
+                    "email": "moerx126@gmail.com",
+                    "firstName": "Moritz",
+                    "lastName": "Mörkl",
+                    "phoneNumber": "+436605156850",
+                    "unableToReach": false
+                },
+                "firstName": "Moritz",
+                "lastName": "Mörkl",
+                "email": "moerx126@gmail.com",
+                "phoneNumber": "+436605156850",
+                "createdTime": "2023-10-18T09:09:01Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2004-03-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "DD7A4D982E53479E8EAB8A4CD281C7AA",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "C610651A3BA2C9FA375453F018B0BA00",
+                    "firstName": "Milena",
+                    "lastName": "Voithofer",
+                    "phoneNumber": "+4367761136661",
+                    "unableToReach": false
+                },
+                "firstName": "Milena",
+                "lastName": "Voithofer",
+                "phoneNumber": "+4367761136661",
+                "createdTime": "2024-12-11T20:07:59Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "2006-05-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "E0F4C47EEC58439298E0218FE656E32D",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "82E76F722880E3732803C8C873FF149B",
+                    "email": "jimmyhuynhminh@gmail.com",
+                    "firstName": "Jimmy",
+                    "lastName": "Huynh Minh",
+                    "imageUrl": "https://spond.com/images/426/4267c3cd82251e54b8e025b9030c229f.jpeg",
+                    "phoneNumber": "+436607249687",
+                    "unableToReach": false
+                },
+                "firstName": "Jimmy",
+                "lastName": "Huynh Minh",
+                "email": "jimmyhuynhminh@gmail.com",
+                "phoneNumber": "+436607249687",
+                "createdTime": "2022-09-16T09:45:19Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1999-04-28",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "0B88A9A72E7B4541AED32513763F52F9",
+                    "2D83E8F93EEA4C649C9FD210AAB285B2",
+                    "576208CFF78A457D956B82B7504EDE27"
+                ],
+                "fields": {},
+                "respondent": false
+            },
+            {
+                "id": "E2B8B85ABFD147CA870B881D38AC68B9",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "4C06A6E2813DF06939A2CA5FF70FE96E",
+                    "email": "tobiaspotzler@aol.com",
+                    "firstName": "Tobias",
+                    "lastName": "Potzler",
+                    "imageUrl": "https://spond.com/images/b44/b443e61e44e53c08a1853f4241c697e4.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Tobias",
+                "lastName": "Potzler",
+                "email": "tobiaspotzler@aol.com",
+                "createdTime": "2025-03-30T10:08:29Z",
+                "guardians": [],
+                "subGroups": [
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1995-12-13",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Abgeschlossen",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+4915143319566"
+                },
+                "respondent": true
+            },
+            {
+                "id": "EBCA45102D7348C6A27E91784FE14B4F",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "966E89F9994F5624B52FF8192468D4F2",
+                    "email": "rafi.mantsch@gmail.com",
+                    "firstName": "Rafael",
+                    "lastName": "Mantsch",
+                    "phoneNumber": "+436605169392",
+                    "unableToReach": false
+                },
+                "firstName": "Rafael",
+                "lastName": "Mantsch",
+                "email": "rafi.mantsch@gmail.com",
+                "phoneNumber": "+436605169392",
+                "createdTime": "2023-06-15T10:26:07Z",
+                "guardians": [],
+                "subGroups": [
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "1996-09-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "EC5430922E6D4476BCAAC59BE2925A4A",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "10399BB74314F4EDA747433CC5FBF4C0",
+                    "email": "t.bammer95@gmail.com",
+                    "firstName": "Thomas",
+                    "lastName": "Bammer",
+                    "unableToReach": false
+                },
+                "firstName": "Thomas",
+                "lastName": "Bammer",
+                "email": "t.bammer95@gmail.com",
+                "createdTime": "2025-03-30T09:46:57Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "dateOfBirth": "1995-03-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "F0F78CE83B8F4A1D86F534CCB3A6BDE2",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "26DB93D388326F594F5DD4F7024429C5",
+                    "firstName": "Konstantin",
+                    "lastName": "Trubacek",
+                    "phoneNumber": "+436605433911",
+                    "unableToReach": false
+                },
+                "firstName": "Konstantin",
+                "lastName": "Trubacek",
+                "phoneNumber": "+436605433911",
+                "createdTime": "2022-01-26T17:21:17Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7"
+                ],
+                "dateOfBirth": "1995-04-13",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "RB"
+                },
+                "respondent": true
+            },
+            {
+                "id": "F10CB79B452F4FADAB60BF50063D461F",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "2FD39F54D83C7786E32913D15AF55F32",
+                    "email": "max.jeftenic11@gmail.com",
+                    "firstName": "Max",
+                    "lastName": "Jeftenić",
+                    "imageUrl": "https://spond.com/images/668/668c8ab6b92f03623f664354890219d2.jpeg",
+                    "phoneNumber": "+491627914480",
+                    "unableToReach": false
+                },
+                "firstName": "Max",
+                "lastName": "Jeftenić",
+                "email": "max.jeftenic11@gmail.com",
+                "phoneNumber": "+491627914480",
+                "createdTime": "2023-04-26T08:46:08Z",
+                "guardians": [],
+                "subGroups": [
+                    "1D931BDB54254903A2698338126BECFB",
+                    "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "imageUrl": "https://spond.com/images/01e/01ece2e2c96addae153ca17f2ac0f1e9.jpeg",
+                "dateOfBirth": "2002-05-17",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "LB",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+49 162 7914480",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "max.jeftenic11@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "F128BE8200FF4B649FB92131B5203BBE",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "E6253AA44A82B7C9ED75CF514057B969",
+                    "email": "max.frank@gmx.at",
+                    "firstName": "Max",
+                    "lastName": "Frank",
+                    "phoneNumber": "+436767311487",
+                    "unableToReach": false
+                },
+                "firstName": "Max",
+                "lastName": "Frank",
+                "email": "max.frank@gmx.at",
+                "phoneNumber": "+436767311487",
+                "createdTime": "2022-02-09T20:09:21Z",
+                "guardians": [],
+                "subGroups": [
+                    "28670C17DDE84476BF61D76CA4EB0561",
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "84D5DE40D12649D089892F51EEE814D7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                    "F8A0B1C78E4F419C8174D3C37BDC0A75"
+                ],
+                "dateOfBirth": "1993-12-01",
+                "verifiedDateOfBirth": false,
+                "roles": [
+                    "2D83E8F93EEA4C649C9FD210AAB285B2"
+                ],
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "Coach"
+                },
+                "respondent": true
+            },
+            {
+                "id": "F54131CA4D0C4E7CB4268CE4F8E93273",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "68606822782AA5F5ABD9C5911928E02F",
+                    "email": "ceggough02@gmail.com",
+                    "firstName": "Cyril",
+                    "lastName": "Eggough",
+                    "imageUrl": "https://spond.com/images/7c4/7c4aa0b406957ef98f6103bd5bef5cb3.jpeg",
+                    "unableToReach": false
+                },
+                "firstName": "Cyril",
+                "lastName": "Eggough",
+                "email": "ceggough02@gmail.com",
+                "createdTime": "2024-12-11T08:11:42Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7",
+                    "A7E03C6203A74FDAA1170DB74BFC6BC0"
+                ],
+                "dateOfBirth": "2002-12-99",
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "F98B4E3BB137470C8452E4585222C665",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "1FF9D45598E82391FFBB4168115FD69A",
+                    "email": "maxvogtenhuber@icloud.com",
+                    "firstName": "Max",
+                    "lastName": "Vogtenhuber",
+                    "phoneNumber": "+4369917018030",
+                    "unableToReach": false
+                },
+                "firstName": "Max",
+                "lastName": "Vogtenhuber",
+                "email": "maxvogtenhuber@icloud.com",
+                "phoneNumber": "+4369917018030",
+                "createdTime": "2025-04-18T18:04:08Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8"
+                ],
+                "dateOfBirth": "1996-04-99",
+                "fields": {
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "D-Line"
+                },
+                "respondent": true
+            },
+            {
+                "id": "FB7A3E7D7E654E27A169ED1EF0B3ED27",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "F06096788CB764373D69E388263015F7",
+                    "email": "julian@galambos.at",
+                    "firstName": "Julian",
+                    "lastName": "Galambos",
+                    "imageUrl": "https://spond.com/images/321/321c49aa026b854b665ab9d3b152c18d.jpeg",
+                    "phoneNumber": "+436767742820",
+                    "unableToReach": false
+                },
+                "firstName": "Julian",
+                "lastName": "Galambos",
+                "email": "julian@galambos.at",
+                "phoneNumber": "+436767742820",
+                "createdTime": "2023-12-11T11:43:02Z",
+                "guardians": [],
+                "subGroups": [
+                    "7B92B598699444FC8B737FBCA071A9FC",
+                    "9BEBEA408632485EB697F907B1640EA8",
+                    "F9D932E75F97418C84EFAF183EE69F83"
+                ],
+                "imageUrl": "https://spond.com/images/89f/89fdb797813ba1d203cc937a5c0d37d6.jpeg",
+                "dateOfBirth": "2023-12-11",
+                "verifiedDateOfBirth": false,
+                "fields": {},
+                "respondent": true
+            },
+            {
+                "id": "FE22E1A6F652437CAAED4215BA7DEF2E",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "CA413F00B16EDEB18B5F88831C2A45E9",
+                    "email": "benjamin.eppensteiner@gmail.com",
+                    "firstName": "Benjamin",
+                    "lastName": "Eppensteiner",
+                    "imageUrl": "https://spond.com/images/12f/12f85bb36f9374833998e6adbf65e5ac.jpeg",
+                    "phoneNumber": "+436765602806",
+                    "unableToReach": false
+                },
+                "firstName": "Benjamin",
+                "lastName": "Eppensteiner",
+                "email": "benjamin.eppensteiner@gmail.com",
+                "phoneNumber": "+436765602806",
+                "createdTime": "2023-06-15T08:50:13Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "2001-12-10",
+                "verifiedDateOfBirth": false,
+                "address": [
+                    "Gablenzgasse 24",
+                    "Wien",
+                    "1160",
+                    null
+                ],
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "IBWL",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "WR",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "06765602806",
+                    "5BA96B48BB694DA596CBA1D1BF21FC6F": "benjamin.eppensteiner@gmail.com"
+                },
+                "respondent": true
+            },
+            {
+                "id": "FE837791F5DC41DD838F7F514975BD99",
+                "profile": {
+                    "contactMethod": "app",
+                    "id": "37CB405FEBC483C32ABA7D7A4FFE084F",
+                    "email": "rechberger.michael@yahoo.de",
+                    "firstName": "Michael",
+                    "lastName": "Rechberger",
+                    "imageUrl": "https://spond.com/images/9d0/9d02ce8e87ec9b5e24089004619aee8d.jpeg",
+                    "phoneNumber": "+436642011250",
+                    "unableToReach": false
+                },
+                "firstName": "Michael",
+                "lastName": "Rechberger",
+                "email": "rechberger.michael@yahoo.de",
+                "phoneNumber": "+436642011250",
+                "createdTime": "2022-01-26T17:21:35Z",
+                "guardians": [],
+                "subGroups": [
+                    "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                    "730DAC6625E745749F684BA9781249E7"
+                ],
+                "dateOfBirth": "1995-05-30",
+                "verifiedDateOfBirth": false,
+                "fields": {
+                    "A0561CB9845B47CB92B3FC7B6CA328C4": "Mol Bio",
+                    "D2546F5A55FC4BA1BE10DD12F375E7B1": "TE",
+                    "4FDC6CFAA0BB457CA5296719CC619A25": "+436642011250"
+                },
+                "respondent": true
+            }
+        ],
+        "membershipRequests": [],
+        "subGroups": [
+            {
+                "id": "12508DE9DBE7490AB739FC7DF8B42FEE",
+                "name": "OL",
+                "color": "#44bec7"
+            },
+            {
+                "id": "1D931BDB54254903A2698338126BECFB",
+                "name": "DB‘s",
+                "color": "#6699cc"
+            },
+            {
+                "id": "28670C17DDE84476BF61D76CA4EB0561",
+                "name": "Box Offense",
+                "color": "#a695c7"
+            },
+            {
+                "id": "40DA1A5B603C40CC80F0A124EA4DEBAA",
+                "name": "Offense",
+                "color": "#ff7e29"
+            },
+            {
+                "id": "4547F3E4E3134ADE83F2EB5C2B24CB20",
+                "name": "LB‘s",
+                "color": "#d696bb"
+            },
+            {
+                "id": "730DAC6625E745749F684BA9781249E7",
+                "name": "WR & TE",
+                "color": "#ff5ca1"
+            },
+            {
+                "id": "7B92B598699444FC8B737FBCA071A9FC",
+                "name": "DLine",
+                "color": "#13cf13"
+            },
+            {
+                "id": "84D5DE40D12649D089892F51EEE814D7",
+                "name": "RBs",
+                "color": "#fa3c4c"
+            },
+            {
+                "id": "9BEBEA408632485EB697F907B1640EA8",
+                "name": "Box Defense",
+                "color": "#e68585"
+            },
+            {
+                "id": "A7E03C6203A74FDAA1170DB74BFC6BC0",
+                "name": "Rookies",
+                "color": "#20cef5"
+            },
+            {
+                "id": "F8A0B1C78E4F419C8174D3C37BDC0A75",
+                "name": "Coaches",
+                "color": "#ffc300"
+            },
+            {
+                "id": "F945CCEBA4B745C6B962C8AD22F86413",
+                "name": "QBs",
+                "color": "#0084ff"
+            },
+            {
+                "id": "F9D932E75F97418C84EFAF183EE69F83",
+                "name": "Defense",
+                "color": "#7646ff"
+            }
+        ],
+        "experiments": {},
+        "shareContactInfo": true,
+        "adminsCanAddMembers": true,
+        "contactInfoHidden": false,
+        "memberPermissions": [
+            "posts"
+        ],
+        "guardianPermissions": [
+            "posts"
+        ],
+        "eventVisibility": "INVITEES",
+        "type": 1,
+        "invitedToAppTime": "1970-01-01T00:00:00Z",
+        "signupUrl": "https://spond.com/invite/JAWHA",
+        "countryCode": "NOR",
+        "allowSmsNag": false,
+        "bonusEnabled": false,
+        "fieldDefs": [
+            {
+                "id": "D2546F5A55FC4BA1BE10DD12F375E7B1",
+                "name": "Position",
+                "type": "TEXT",
+                "visibility": "ALL",
+                "source": "GROUP",
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            },
+            {
+                "id": "4FDC6CFAA0BB457CA5296719CC619A25",
+                "name": "Telefonnummer",
+                "type": "TEXT",
+                "visibility": "ALL",
+                "source": "GROUP",
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            },
+            {
+                "id": "5BA96B48BB694DA596CBA1D1BF21FC6F",
+                "name": "E-Mail",
+                "type": "TEXT",
+                "visibility": "ALL",
+                "source": "GROUP",
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            },
+            {
+                "id": "A0561CB9845B47CB92B3FC7B6CA328C4",
+                "name": "Studienrichtung",
+                "type": "TEXT",
+                "visibility": "ALL",
+                "source": "GROUP",
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            }
+        ],
+        "defaultFields": {
+            "field_member_address": {
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            },
+            "field_member_dob": {
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            },
+            "field_member_guardian": {
+                "permission": "ADMINS_AND_ALL_MEMBERS",
+                "locked": false,
+                "required": false
+            }
+        },
+        "roles": [
+            {
+                "id": "0B88A9A72E7B4541AED32513763F52F9",
+                "name": "Admin",
+                "permissions": [
+                    "members",
+                    "admins",
+                    "settings",
+                    "events",
+                    "posts",
+                    "polls",
+                    "payments",
+                    "chat",
+                    "files",
+                    "fundraisers"
+                ]
+            },
+            {
+                "id": "2D83E8F93EEA4C649C9FD210AAB285B2",
+                "name": "Coach",
+                "permissions": [
+                    "members",
+                    "settings",
+                    "events",
+                    "posts",
+                    "polls",
+                    "files",
+                    "fundraisers"
+                ]
+            },
+            {
+                "id": "576208CFF78A457D956B82B7504EDE27",
+                "name": "Orga",
+                "permissions": [
+                    "members",
+                    "events",
+                    "posts",
+                    "polls",
+                    "payments",
+                    "files",
+                    "fundraisers"
+                ]
+            }
+        ],
+        "addressFormat": [
+            "street",
+            "zip",
+            "city"
+        ],
+        "allowPrivatePayoutAccounts": true
+    }
+]
