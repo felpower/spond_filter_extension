@@ -26,6 +26,22 @@ function addPositionFilterUI() {
             margin-left: auto; /* Push the filter UI to the right of the modal title */
         `;
 
+        // Create the reload button
+        const reloadButton = document.createElement('button');
+        reloadButton.id = 'reload-dropdown-button';
+        reloadButton.style = `
+            padding: 5px;
+            border: none;
+            background: none;
+            cursor: pointer;
+        `;
+        reloadButton.innerHTML = '🔄'; // Unicode for reload symbol
+        reloadButton.title = 'Reload positions'; // Tooltip for the button
+        reloadButton.addEventListener('click', () => {
+            populateDropdownWithPositions(positionDropdown); // Reload the dropdown
+        });
+        filterContainer.appendChild(reloadButton);
+
         // Create the dropdown field
         const positionDropdown = document.createElement('select');
         positionDropdown.id = 'position-filter-dropdown';
@@ -40,16 +56,8 @@ function addPositionFilterUI() {
         defaultOption.selected = true;
         positionDropdown.appendChild(defaultOption);
 
-        // Add predefined positions
-        const positions = ['QB', 'OL', 'DL', 'WR', 'RB', 'DB', 'LB', 'TE', 'Coach']; // Add more positions as needed
-        positions.forEach((position) => {
-            const option = document.createElement('option');
-            option.value = position.toLowerCase();
-            option.textContent = position;
-            positionDropdown.appendChild(option);
-        });
-
         filterContainer.appendChild(positionDropdown);
+
 
         // Create the filter button
         const filterButton = document.createElement('button');
@@ -121,7 +129,6 @@ function activatePositionField() {
     // Open the dropdown menu
     dropdownToggle.click();
 
-    // Wait for the dropdown menu to load and click the "Position" field
     setTimeout(() => {
         const positionOption = Array.from(document.querySelectorAll('.dropdown-menu a')).find(
             (option) => option.textContent.trim() === 'Position'
@@ -136,11 +143,52 @@ function activatePositionField() {
             if (positionDropdown && filterButton) {
                 positionDropdown.disabled = false; // Enable the dropdown
                 filterButton.textContent = 'Filter'; // Update button text
+
+                // Populate the dropdown with actual positions
+                populateDropdownWithPositions(positionDropdown);
             }
         } else {
             console.error('Position option not found in the dropdown menu');
         }
     }, 500); // Adjust the timeout if needed
+}
+
+function populateDropdownWithPositions(positionDropdown) {
+    // Clear existing options (except the default one)
+    positionDropdown.innerHTML = '';
+    const defaultOption = document.createElement('option');
+    defaultOption.value = '';
+    defaultOption.textContent = 'Select a position';
+    defaultOption.disabled = true;
+    defaultOption.selected = true;
+    positionDropdown.appendChild(defaultOption);
+
+    // Extract unique positions from the recipients
+    const people = document.querySelectorAll('li.recipients');
+    const positionsSet = new Set();
+
+    people.forEach((p) => {
+        const subTitleDiv = p.querySelector('.sub-title'); // Assuming positions are in the "sub-title" div
+        let posText = subTitleDiv?.textContent?.trim();
+        if (posText) {
+            // Remove "Position:" prefix if it exists
+            posText = posText.replace(/^Position:\s*/i, ''); // Case-insensitive match for "Position:"
+            positionsSet.add(posText); // Add the cleaned position to the set
+        }
+    });
+
+    // Convert the set to an array and sort it alphabetically
+    const sortedPositions = Array.from(positionsSet).sort((a, b) => a.localeCompare(b));
+
+    // Populate the dropdown with sorted positions
+    sortedPositions.forEach((position) => {
+        const option = document.createElement('option');
+        option.value = position.toLowerCase();
+        option.textContent = position;
+        positionDropdown.appendChild(option);
+    });
+
+    console.log('Dropdown populated with sorted positions:', sortedPositions);
 }
 
 function enableFilterIfPositionSelected() {
