@@ -1,3 +1,7 @@
+if (typeof browser === 'undefined') {
+  var browser = chrome;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   console.log('DOM fully loaded and parsed'); // Debugging log
 
@@ -14,10 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const position = positionInput.value.trim().toLowerCase();
     console.log(`Position entered: "${position}"`); // Debugging log
 
-    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+    browser.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       const activeTab = tabs[0];
       if (activeTab) {
-        chrome.tabs.sendMessage(activeTab.id, { type: 'FILTER_BY_POSITION', position }, (response) => {
+        browser.tabs.sendMessage(activeTab.id, { type: 'FILTER_BY_POSITION', position }, (response) => {
           if (response?.success) {
             console.log('Filter applied successfully'); // Debugging log
           } else {
